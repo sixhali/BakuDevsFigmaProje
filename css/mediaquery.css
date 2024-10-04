@@ -1,0 +1,760 @@
+@media (max-width:1400px){    
+    footer{
+        height: 70vh;
+    }
+
+    .WebSitelasttext{
+        margin: auto;
+        max-width: 1200px;
+    }
+
+}
+
+
+
+@media (max-width:1200px){
+    .navbarcontent{
+        display: flex;
+        margin: auto;
+        gap: 50px;
+        margin-top: 30px;
+        max-width: 1000px;
+    
+    }
+
+    .btn-content button{
+        padding: 10px 30px;
+    }
+
+    .navbarimgContainer{
+        max-width: 1000px;
+        margin: auto;
+    }
+
+    .navbarimgContainer img{
+        max-width: 500px;
+
+    }
+
+
+    .textcontent p{
+        font-size: 40px;
+        line-height: 40px;
+    }
+
+
+
+    .textcontent button{
+        padding: 10px 30px;
+    }
+
+    .courseBoxs{
+        max-width: 1200px;
+    }
+     
+
+
+    
+    .img img{
+        max-width: 250px;
+
+    }
+
+
+    .mockup-shape-png, .mockup-elpise-png, .mockup-elpise2-png,.mockup-Group-png{
+        display: none;
+    }
+
+    .Rectangle28{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .cards-content{
+        max-width: 650px;
+        margin: auto;
+    }
+
+    .Rectangle28Container h3{
+        text-align: center;
+        margin: auto;
+        max-width: 500px;
+        font-size: 40px;
+    
+    }
+
+    .Rectangle28Container p{
+        text-align: center;
+        margin: auto;
+        max-width: 500px;
+        font-size: 20px;
+        line-height: 36px;
+
+    }
+    
+    footer{
+        height: 70vh;
+    }
+
+    .WebSitelasttext{
+        margin: auto;
+        max-width: 1100px;
+    }
+
+}
+
+
+
+
+
+
+
+@media (max-width:992px){
+    .navbarcontent{
+        display: flex;
+        margin: auto;
+        gap: 30px;
+        margin-top: 30px;
+        max-width: 750px;
+    }
+
+    .btn-content button{
+        padding: 10px 10px;
+    }
+
+    .navbarimgContainer{
+        max-width: 600px;
+        margin: auto;
+    }
+
+    .navbarimgContainer img{
+        max-width: 400px;
+
+    }
+
+
+    .textcontent p{
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .coursecontainer .titlecontent h4{
+        font-size: 20px;
+
+    }
+
+
+    .courseBoxs {
+        max-width: 900px;
+    }
+
+
+
+    .textcontent button{
+        padding: 10px 30px;
+    }  
+
+ 
+
+
+    
+    .img img{
+        max-width: 250px;
+
+    }
+
+    .mockup-shape-png, .mockup-elpise-png, .mockup-elpise2-png,.mockup-Group-png{
+        display: none;
+    }
+    .Rectangle28{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .cards-content{
+        max-width: 650px;
+        margin: auto;
+    }
+
+    .Rectangle28Container h3{
+        text-align: center;
+        margin: auto;
+        max-width: 500px;
+        font-size: 40px;
+    
+    }
+
+    .Rectangle28Container p{
+        text-align: center;
+        margin: auto;
+        max-width: 500px;
+        font-size: 20px;
+        line-height: 36px;
+
+    }
+
+
+    footer{
+        height: 120vh;
+    }
+
+    .footer-container{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin: auto;
+        gap: 100px;
+    }
+
+    .footer-containerContent3 .input-righticon button{
+      padding:12px 30px;
+      bottom: 3px;
+      left: -40px;
+      position: relative;
+   
+    }
+
+    .footer-containerContent3 input[type="text"]{
+        padding:20px 50px;
+        width: 250px;
+    }
+
+    
+
+    
+
+
+    .WebSitelasttext{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 20px;
+        align-items: center;
+    }
+
+    
+
+    .footerlogoconent p{
+        display: none;
+    }
+
+
+
+
+}
+
+
+@media (max-width:834px){
+    nav{
+     height: 100vh;
+    }
+ 
+    .titlecontent{
+     flex-direction: column;
+     gap: 50px;
+    }
+    
+ 
+}
+
+
+
+
+@media (max-width:820px){
+    nav{
+     height: 70vh;
+    }
+ 
+    .titlecontent{
+     flex-direction: column;
+     gap: 50px;
+    }
+ 
+}
+
+
+@media (max-width:800px){
+   nav{
+    height: 70vh;
+   }
+
+   .titlecontent{
+    flex-direction: column;
+    gap: 50px;
+   }
+
+   .img img{
+    position: relative;
+    bottom: 10px;
+   }
+
+   footer{
+    height: 80vh;
+}
+
+.footer-container{
+    display: flex;
+    flex-direction: column;
+    max-width: 750px;
+    margin: auto;
+    gap: 50px;
+}
+
+.footer-containerContent3 .input-righticon button{
+  padding:12.5px 30px;
+  bottom: 3px;
+  left: -45px;
+  position: relative;
+
+}
+
+
+
+
+.WebSitelasttext{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+}
+
+.footerlogoconent {
+    display: block;
+}
+
+.footerlogoconent p{
+    display: none;
+}
+
+
+   
+
+}
+
+
+
+
+@media (max-width:768px){
+    .navbarcontent{
+        display: flex;
+        margin: auto;
+        gap: 30px;
+        margin-top: 30px;
+        max-width: 750px;
+    }
+
+    .btn-content button{
+        padding: 10px 10px;
+    }
+
+    .navbarimgContainer{
+        max-width: 600px;
+        margin: auto;
+    }
+
+    .navbarimgContainer img{
+        max-width: 250px;
+
+    }
+
+
+    .textcontent p{
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+
+
+    .textcontent button{
+        padding: 10px 30px;
+    }
+
+
+    .titlecontent{
+        margin-top: 10vh;
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+
+
+
+    .courseBoxs{
+        gap: 50px;
+        max-width: 600px;
+    }
+
+
+
+    .courseBoxs .box{
+        max-width: 200px;
+    }
+
+    .courseBoxs .box img{
+        max-width: 180px;
+    }
+
+    .down-box-text-playicon .cricle {
+        width:80px;
+    
+    }
+
+
+
+    .img img{
+        max-width: 250px;
+        margin-top: 30px;
+    }
+
+    .mockup-shape-png, .mockup-elpise-png, .mockup-elpise2-png,.mockup-Group-png{
+        display: none;
+    }
+    .Rectangle28{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .cards-content{
+        max-width: 650px;
+        margin: auto;
+    }
+
+    .Rectangle28Container h3{
+        text-align: center;
+        margin: auto;
+        max-width: 340px;
+        font-size: 20px;
+    
+    }
+
+    .Rectangle28Container p{
+        text-align: center;
+        margin: auto;
+        max-width: 250px;
+        font-size: 11px;
+        line-height: 36px;
+
+    }
+
+
+    footer{
+        height: 100vh;
+    }
+
+    .footer-container{
+        display: flex;
+        flex-direction: column;
+        max-width: 750px;
+        margin: auto;
+        gap: 50px;
+    }
+
+    .footer-containerContent3 .input-righticon button{
+      padding:12.5px 30px;
+      bottom: 3px;
+      left: -45px;
+      position: relative;
+   
+    }
+
+    
+
+
+    .WebSitelasttext{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 20px;
+        align-items: center;
+    }
+
+    .footerlogoconent {
+        display: block;
+    }
+
+    .footerlogoconent p{
+        display: none;
+    }
+
+
+
+
+}
+
+
+@media (max-width:576px){
+    nav{
+        height: 100vh;
+        padding-bottom: 40px;
+   
+    }
+    .navbarcontent{
+        display: flex;
+        gap: 30px;
+        flex-direction: column;
+    }
+
+    .navbarimgContainer{
+        max-width: 350px;
+        margin: auto;
+    }
+
+    .navbarimgContainer img{
+        max-width: 150px;
+
+    }
+
+
+    .textcontent p{
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+
+
+    .textcontent button{
+        padding: 7px 15px;
+    }
+
+
+    .titlecontent{
+        margin-top: 10vh;
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    .courseName a:nth-child(1),.courseName a:nth-child(2),
+    .courseName a:nth-child(3),.courseName a:nth-child(4){
+        padding: 5px 5px;
+    }
+
+    .courseBoxs{
+        gap: 50px;
+        max-width: 450px;
+    }
+
+
+    .courseBoxs .box{
+        max-width: 200px;
+    }
+
+    .courseBoxs .box img{
+        max-width: 180px;
+    }
+
+    .down-box-text-playicon .cricle {
+        width:80px;
+    
+    }
+
+    .img img{
+        max-width: 150px;
+        margin-top: 30px;
+    }
+
+    .mockup-shape-png, .mockup-elpise-png, .mockup-elpise2-png,.mockup-Group-png{
+        display: none;
+    }
+    .Rectangle28{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .cards-content{
+        max-width: 300px;
+        margin: auto;
+    }
+
+    .Rectangle28Container h3{
+        text-align: center;
+        margin: auto;
+        max-width: 340px;
+        font-size: 20px;
+    
+    }
+
+    .Rectangle28Container p{
+        text-align: center;
+        margin: auto;
+        max-width: 250px;
+        font-size: 11px;
+        line-height: 36px;
+
+    }
+
+    footer{
+        height: 80vh;
+ 
+    }
+
+    .footer-container{
+        display: flex;
+        flex-direction: column;
+        max-width: 500px;
+        margin: auto;
+        gap: 100px;
+    }
+
+
+
+    .footer-containerContent3  {
+        display: none;
+    }
+
+    
+
+
+    .WebSitelasttext{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 20px;
+        align-items: center;
+    }
+
+    .footerlogoconent {
+        display: block;
+    }
+
+    .footerlogoconent p{
+        display: none;
+    }
+
+
+    
+
+    
+
+}
+
+
+
+@media (max-width:320px){
+    .navbarcontent{
+        display: flex;
+        gap: 30px;
+        flex-direction: column;
+    }
+
+    .navbarimgContainer{
+        max-width: 250px;
+        margin: auto;
+    }
+
+    .navbarimgContainer img{
+        max-width: 100px;
+
+    }
+
+
+    .textcontent p{
+        font-size: 13px;
+        line-height: 30px;
+    }
+
+
+
+    .textcontent button{
+        padding: 7px 10px;
+    }
+
+    .titlecontent h4{
+        font-size: 20px;
+    }
+
+    .courseName {
+        gap: 5px;
+
+    }
+
+
+    .img img{
+        max-width: 150px;
+        margin-top: 30px;
+    }
+
+    .Rectangle28{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .cards-content{
+        max-width: 250px;
+        margin: auto;
+    }
+
+    .cards-content .card{
+        max-width: 250px;
+    }
+
+    .Rectangle28Container h3{
+        text-align: center;
+        margin: auto;
+        max-width: 340px;
+        font-size: 12px;
+        line-height: 35px;
+    
+    }
+
+    .Rectangle28Container p{
+        text-align: center;
+        margin: auto;
+        max-width: 250px;
+        font-size: 11px;
+        line-height: 30px;
+
+    }
+
+
+    footer{
+        height: 80vh;
+ 
+    }
+
+    .footer-container{
+        display: flex;
+        flex-direction: column;
+        max-width: 300px;
+        margin: auto;
+        gap: 50px;
+        margin-bottom: 10px;
+    }
+
+
+
+    .footer-containerContent3  {
+        display: none;
+    }
+
+    
+
+
+    .WebSitelasttext{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 20px;
+        align-items: center;
+    }
+
+    .footerlogoconent {
+        display: block;
+    }
+
+    .footerlogoconent p{
+        display: none;
+    }
+
+    .footer-containerContent1 ul li a , .footer-containerContent2 ul li a{
+     font-size: 13px;
+    }
+
+    .ul-content{
+        gap: 50px;
+    }
+    
+
+
+}
